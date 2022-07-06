@@ -1,0 +1,185 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rubik', sans-serif;
+    margin:0;
+}
+
+.coverpic{
+    background-image:url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.overlay{
+    text-align:center;
+    padding:200px 300px;
+    color:white;
+
+    
+    
+}
+.batton{
+    
+    text-decoration:none;
+    color:white;
+    background-color:#FF5959;
+    padding:15px;
+    border-radius:10px;
+
+}
+
+.batton-margin{
+    padding-top:30px;
+
+}
+
+h1{
+    font-size:50px;
+}
+.donation{
+    margin-left:15%;
+    margin-right:15%;
+}
+.donation-artical{
+    text-align:center;
+}
+.donation-box{
+    display: flex;
+    margin-top:100px;
+}
+
+.donation-amount{
+    width:20%;
+    margin-left: 1%;
+    margin-right:1%;
+    border-radius:50px;
+    box-shadow:10px 10px 10px gray;
+}
+#amount200{
+    border:3px solid red;
+    border-radius:50px;
+}
+#amount200-text{
+    color:red;
+}
+.amount{
+    text-align: center;
+}
+
+
+.donate-plan-artical{
+    text-align:center;
+    padding-left:90px;
+    padding-right:90px;
+}
+
+.donate-plan{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+
+.donate-plan-box{
+    display: flex;
+   width:;
+    
+}
+.donate-item{
+    width:33%;
+    margin:30px;
+    padding:20px;
+    box-shadow:10px 10px 20px gray;
+
+}
+
+#food{
+    background-color:#EDF5F6;
+}
+#medicine {
+    background-color: #FFEEEE;
+}
+
+#education{
+    background-color: #FFF4D6;
+}
+.icon{
+    width: 80px;
+}
+
+.half-width{
+    width:50%; 
+    text-align:start;
+}
+
+.images-size{
+   width:90%;
+}
+
+#images-stand{
+ 
+ border-radius:20px;
+ margin-left: 30px;
+}
+
+#images-hand{
+    border-radius:20px;
+}
+
+.donation-help{
+    display: flex;
+    margin:5% 12%;
+    
+}
+
+.end-part{
+    background-color: #FFF4D6;
+    padding:80px;
+    margin-left:25%;
+    margin-right:25%;
+    border-radius:15px;
+   
+
+}
+
+#contacts{
+    border-radius:10px;
+    background-color: #D9D9D9;
+    display: flex;
+    
+}
+
+#contacts-text-email{
+    color:#ABA0A0 ;
+    padding-left:30px;
+    width:75%;
+
+}
+
+#contacts-text-subscribe{
+    padding-left:30px;
+    padding-right:30px;
+    width:25%;
+ background-color:#FF5959 ;
+ color: white;
+    text-align:center;
+ 
+}
+
+
+footer{
+    margin-top:30px;
+    padding: 10px;
+    
+    background-color: rgb(22, 19, 19);
+    text-align: center;
+}
+
+footer h1{
+    color: #FF0E0E;
+}
+
+footer p{
+    color: white;
+}
